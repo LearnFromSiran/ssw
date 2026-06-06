@@ -1,0 +1,6 @@
+{
+  "name": "SSW Nursing Care",
+  "description": "A comprehensive study and training application for foreigners preparing for the Specified Skilled Worker (SSW) Nursing Care Skills and Japanese Language Evaluation Test.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
